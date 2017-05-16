@@ -1,1 +1,7 @@
 C:\Users\Glenn\Documents\Visual Studio 2015\Projects\BinaireRekenmachine\BinaireRekenmachine\bin\Debug\BinaireRekenmachine.exe.config
+C:\Users\Glenn\Documents\GitHub\DPGlenn-Ruben\BinaireRekenmachine\BinaireRekenmachine\bin\Debug\BinaireRekenmachine.exe.config
+C:\Users\Glenn\Documents\GitHub\DPGlenn-Ruben\BinaireRekenmachine\BinaireRekenmachine\bin\Debug\BinaireRekenmachine.exe
+C:\Users\Glenn\Documents\GitHub\DPGlenn-Ruben\BinaireRekenmachine\BinaireRekenmachine\bin\Debug\BinaireRekenmachine.pdb
+C:\Users\Glenn\Documents\GitHub\DPGlenn-Ruben\BinaireRekenmachine\BinaireRekenmachine\obj\Debug\BinaireRekenmachine.csprojResolveAssemblyReference.cache
+C:\Users\Glenn\Documents\GitHub\DPGlenn-Ruben\BinaireRekenmachine\BinaireRekenmachine\obj\Debug\BinaireRekenmachine.exe
+C:\Users\Glenn\Documents\GitHub\DPGlenn-Ruben\BinaireRekenmachine\BinaireRekenmachine\obj\Debug\BinaireRekenmachine.pdb
