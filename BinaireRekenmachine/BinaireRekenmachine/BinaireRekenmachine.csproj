@@ -43,12 +43,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller\CircuitController.cs" />
+    <Compile Include="Factory\AbstractNodeFactory.cs" />
+    <Compile Include="Factory\InputNodeFactory.cs" />
+    <Compile Include="Factory\NodeFactory.cs" />
+    <Compile Include="Factory\ProbeNodeFactory.cs" />
+    <Compile Include="Input\CircuitInputReader.cs" />
+    <Compile Include="Input\UserInputReader.cs" />
+    <Compile Include="Interface\INode.cs" />
+    <Compile Include="Model\Circuit.cs" />
+    <Compile Include="Model\InputNode.cs" />
+    <Compile Include="Model\Node.cs" />
+    <Compile Include="Model\ProbeNode.cs" />
+    <Compile Include="Model\SwitchNode.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

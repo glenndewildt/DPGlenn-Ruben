@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BinaireRekenmachine.Models
 {
-    class Node
+    abstract class Node
     {
     }
 }
