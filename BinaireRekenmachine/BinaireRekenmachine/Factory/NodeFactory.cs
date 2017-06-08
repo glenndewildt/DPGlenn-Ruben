@@ -9,7 +9,8 @@ namespace BinaireRekenmachine.Factory
 {
     class NodeFactory
     {
-        private Dictionary<string, Type> _types;
+        private Dictionary<string, Type> _types;
+
         public void AddNodeType(string name, Type type) {
             _types.[name] = type;
         }
